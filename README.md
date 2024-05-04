@@ -7,6 +7,8 @@ eveloper develop Android apps & release on Play Store. As an Developer or say Bu
 
 We trust versatile application clients consider online application surveys as a noteworthy impact for paid applications. It is trying for a potential client to peruse all the literary remarks and rating to settle on a choice. Additionally, application engineers experience issues in discovering how to improve the application execution dependent on generally speaking evaluations alone and would profit by understanding a huge number of printed remarks.
 
+Play_store_dataset_link:- https://drive.google.com/file/d/1jsG4PUbQ8mmrdup1OuOp4lDMa5-xPfSK/view?usp=sharing
+User_review_dataset_limk:- https://drive.google.com/file/d/1h391md_8oRjQIdCeizTBpMicRGJ7DqJO/view?usp=sharing
 ## Dataset
 This file contains data on the Google Play applications. It has 10,841 rows of data with the following columns:
 
